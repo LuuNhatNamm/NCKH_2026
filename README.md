@@ -96,7 +96,7 @@ Dữ liệu được thu thập realtime từ các website thương mại điệ
 
 ---
 
-# ⚙️ Kiến Trúc Pipeline
+# Kiến Trúc Pipeline
 
 ```text
 Web Crawling
@@ -187,10 +187,6 @@ Ngoài ra:
 │   ├── raw_data
 │   ├── processed_data
 │
-├── models/
-│   ├── tfidf_model
-│   ├── word2vec_model
-│
 ├── crawler/
 │   ├── lazada_crawler.py
 │
@@ -213,8 +209,8 @@ Ngoài ra:
 ## 1. Clone Repository
 
 ```bash
-git clone <your-repository-link>
-cd <project-folder>
+git clone <https://github.com/LuuNhatNamm/NCKH_2026.git>
+cd <NCKH>
 ```
 
 ---
@@ -280,6 +276,6 @@ Nội dung nghiên cứu bao gồm:
 
 ---
 
-# 📄 License
+# License
 
 This project is developed for academic and research purposes.
