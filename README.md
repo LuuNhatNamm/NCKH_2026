@@ -269,6 +269,3 @@ Nội dung nghiên cứu bao gồm:
 
 ---
 
-# License
-
-This project is developed for academic and research purposes.
