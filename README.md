@@ -186,17 +186,10 @@ Ngoài ra:
 ├── data/
 │   ├── raw_data
 │   ├── processed_data
-│
 ├── crawler/
 │   ├── lazada_crawler.py
-│
-├── recommendation/
-│   ├── content_based.py
-│   ├── hybrid_system.py
-│
 ├── app/
 │   ├── streamlit_app.py
-│
 ├── run.py
 ├── requirements.txt
 └── README.md
